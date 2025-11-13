@@ -1,0 +1,10 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+tensorflow>=2.10
+keras
+streamlit
+pillow
+tqdm
+rasterio
