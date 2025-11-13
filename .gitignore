@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data folders (large files)
+data/
+datasets/
+*.tif
+*.png
+*.jpg
+
+# Model checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+
+# OS generated files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
